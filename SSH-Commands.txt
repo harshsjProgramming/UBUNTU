@@ -1,0 +1,7 @@
+Verify if SSH Deaemon service is running:
+- sudo systemctl status ssh
+
+Update Package List
+- sudo apt update
+             - sudo : (root) privileges
+             -  apt: This stands for "Advanced Package Tool"
